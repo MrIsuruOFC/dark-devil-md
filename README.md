@@ -42,7 +42,7 @@ Dark Devil whatsapp bot is,
 # 
 
 <details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬
 
 [`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
 
@@ -96,3 +96,4 @@ THANAKS FOR USNING DARK DEVIL-MD 💃💖
  [tharusha]() thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://github.com/isuru-new/groups#README.md)
+ ⦁ *_This is copied from Mr Nima._*
