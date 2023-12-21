@@ -57,7 +57,7 @@ Dark Devil whatsapp bot is,
 # 
 1. Fork This Repository 
 2. Update [settings.js]()
-3. Uplode creds.json file to sessions folder
+3. Upload creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
 # 
@@ -79,7 +79,7 @@ Dark Devil whatsapp bot is,
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING DARK DEVIL-MD 💃💖
+THANKS FOR USING DARK DEVIL-MD 💃💖
 
 *[🦄 Join Public Group 🦄](https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq)*
 
@@ -97,3 +97,5 @@ THANAKS FOR USNING DARK DEVIL-MD 💃💖
 
  ## [ WHATSAPP GROUPS ](https://github.com/isuru-new/groups#README.md)
  ⦁ *_This is copied from Mr Nima._*
+
+ *COMINGSOON*
