@@ -44,7 +44,7 @@ Dark Devil whatsapp bot is,
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/isuru-new/dark-devil-md)
 
 [`Deploy on Replit`](https://replit.com)
  
