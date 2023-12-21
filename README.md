@@ -2,7 +2,7 @@
 <u>♥️ ᴅᴀʀᴋ ᴅᴇᴠɪʟ ᴡᴀ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ ♥️</u>
 </p>
 <p align="center">
-<img src="https://t.me/jCLkf2UJXU4OTU9/2" width="300" height="300"/>
+<img src="https://i.ibb.co/qssxpf9/1703142404763.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DARK+DEVIL+WHATSAPP+BOT" alt="">
