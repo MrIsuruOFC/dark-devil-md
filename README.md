@@ -95,7 +95,7 @@ __________________________
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sithuwa/SITHUWA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/isuru-new/dark-devil-md">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
