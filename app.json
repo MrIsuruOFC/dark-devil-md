@@ -2,7 +2,7 @@
   "name": "DARK-DEVIL-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/qssxpf9/1703142404763.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Dark-Devil", "isuru-new","DARK-DEVIL-MD","theme bot","multi device","baileys","Mr Isuru Chamika"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Dark-Devil", "darkdevil-md","DARK-DEVIL-MD","theme bot","multi device","baileys","Mr Isuru Chamika"],
   "success_url": "/",
   "stack": "container",
 "env": {
