@@ -158,7 +158,7 @@ __________________________
 
 # Developers
 
-<h2 align="center">dark-devil-md
+<h2 align="center">DARK-DEVIL-MD
 </h2>
 
   <p align="center">
