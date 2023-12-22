@@ -86,7 +86,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable theme are ᴅᴀʀᴋ ᴅᴇᴠɪʟ-ᴍᴅ.(AVOID CHANGING)",
-     "value": "DARK-DEVIL-MD"
+     "value": "dark-devil-md"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -99,7 +99,7 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "DARK-DEVIL-MD:"
+    "value": "MrIsuru:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
