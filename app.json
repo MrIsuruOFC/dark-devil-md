@@ -73,7 +73,7 @@
        "value": "94766632281"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to SITHUWA-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to DARK-DEVIL-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -85,7 +85,7 @@
     "value": "mongodb+srv://isurumongo:isurumongo1@cluster0.ikguzro.mongodb.net/"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable theme are sithuwa-md.(AVOID CHANGING)",
+    "description": "Put the theme name you want to use. Avilable theme are DARK-DEVIL-MD.(AVOID CHANGING)",
      "value": "dark-devil-md"
   },
     "WORKTYPE": {
